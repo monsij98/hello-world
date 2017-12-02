@@ -24,7 +24,7 @@ Follow up these instructions if you want to see it in action up and running on y
 ```python
 import gitpub
 
-username = 'test' # there goes your username, inside ' '
+username = 'demfier' # there goes your username, inside ' '
 profile = gitpub.Profile()
 profile.load_gh_profile(username)  # loads profile details of `username`
 profile.get_public_repos()  # loads all the public repo details of `username`
