@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## GitPub - Python library to interact with github's public API
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -40,3 +41,8 @@ Want to contribute? Awesome, we always wanted a larger development base. Jump in
 
 # LICENSE
 The MIT License (MIT) 2017 - [Gaurav Sahu](https://github.com/demfier). Please have a look at the [LICENSE.txt](https://github.com/Demfier/GitPub/blob/master/LICENSE.txt) for more details.
+=======
+# README
+
+**This repository is for testing purposes**
+>>>>>>> 7348cd554b6c86ef3e8e205b4c570749f2d1478e
