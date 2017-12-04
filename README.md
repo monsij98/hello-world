@@ -1,6 +1,7 @@
 ## GitPub - Python library to interact with github's public API
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+[![Build Status](https://travis-ci.org/Demfier/GitPub.svg?branch=master)](https://travis-ci.org/Demfier/GitPub)
 
 ## Getting started!
 Follow up these instructions if you want to see it in action up and running on your machine.
