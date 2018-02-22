@@ -65,6 +65,8 @@ The review process for coala is as follows:
    ``corobo mark wip <URL>`` or ``corobo mark pending <URL>``.
 3. The developers will acknowledge the commits by writing
 
+   * In case an owner is reviewing it:
+
     - ``ack commit_SHA`` or ``commit_SHA is ready``, in case the commit is
       ready, or
     - ``unack commit_SHA`` or ``commit_SHA needs work`` in case it is not ready
@@ -72,6 +74,12 @@ The review process for coala is as follows:
     - ``reack commit_SHA`` in case the commit was acknowledged before, was
       rebased without conflicts and the rebase did not introduce logical
       problems.
+
+   * In case a member is reviewing it:
+
+   - Let's get this merged better known as ``LGTM`` in case the commit is ready
+      ,or
+   - Additional comments if something needs to be rectified. 
 
     .. note::
 
