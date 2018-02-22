@@ -103,7 +103,7 @@ GitHub states are green. This includes the GitMate review as well as the
 Continuous Integration systems.
 
 Continuous integration is always done for the last commit on a pull
-request but should ideally pass for every commit.
+request but should ideally pass for every commit.123456
 
 For the Reviewers
 -----------------
