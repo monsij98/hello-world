@@ -76,14 +76,14 @@ The review process for coala is as follows:
       problems.
 
     .. note::
-  
+
           Only one acknowledgment is needed per commit i.e ``ack commit_SHA``.
 
 
    * In case a member is reviewing it:
 
     - Let's get this merged better known as ``LGTM`` in case the commit is ready
-      ,or
+      to be merged,or
     - Additional comments if something needs to be rectified.
 
 
@@ -91,7 +91,9 @@ The review process for coala is as follows:
    to step one.
 5. All commits are acknowledged and fit linearly onto master. All
    continuous integration services (as described below) pass. A maintainer
-   may leave the ``@rultor merge`` command to get the PR merged automatically.
+   may leave the ``@gitmate-bot rebase`` and ``@gitmate-bot ff``
+   command to get the branch mentioned in the PR rebased,fast-forwarded
+   and merged automatically.Thanks to gitmate-bot.
 
 Automated Review Process
 ------------------------
