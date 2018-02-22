@@ -75,15 +75,17 @@ The review process for coala is as follows:
       rebased without conflicts and the rebase did not introduce logical
       problems.
 
+    .. note::
+  
+          Only one acknowledgment is needed per commit i.e ``ack commit_SHA``.
+
+
    * In case a member is reviewing it:
 
     - Let's get this merged better known as ``LGTM`` in case the commit is ready
       ,or
-    - Additional comments if something needs to be rectified. 
+    - Additional comments if something needs to be rectified.
 
-    .. note::
-
-        Only one acknowledgment is needed per commit i.e ``ack commit_SHA``.
 
 4. If the commits are not linearly mergeable into master, rebase and go
    to step one.
