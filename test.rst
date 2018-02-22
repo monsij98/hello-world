@@ -84,7 +84,7 @@ The review process for coala is as follows:
 
     - Let's get this merged better known as ``LGTM`` in case the commit is ready
       to be merged,or
-    - Additional comments if something needs to be rectified.
+    - Additional comments if something needs to be rectified.123
 
 
 4. If the commits are not linearly mergeable into master, rebase and go
