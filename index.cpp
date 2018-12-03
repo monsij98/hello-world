@@ -6,6 +6,7 @@ int main()
 {
 	int a,b,i;
 	i=3;
+	
 	cin >> a >> b;
 	cout << a << "and" << b;
 	cout << "Feature 1";
