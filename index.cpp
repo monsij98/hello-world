@@ -6,6 +6,7 @@ int main()
 {
 	int a,b,i;
 	i=3;
+	int c=10;
 	
 	
 	cin >> a >> b;
