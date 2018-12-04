@@ -6,7 +6,7 @@ int main()
 {
 	int a,b,i;
 	i=3;
-	
+	int k=5;
 	
 	cin >> a >> b;
 	cout << a << "and" << b;
